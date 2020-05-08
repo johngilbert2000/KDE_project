@@ -1,8 +1,8 @@
 # KDE_project
 
-This project improves the performance speed of Junjie's (俊傑) implementation of Elevated Relaxed Variable Kernel Density Estimation (E-RVKDE), Relaxed Variable Kernel Density Estimation (RVKDE), and Abramson's variable bandwidth Kernel Density Estimation (Abramson KDE) methods. The code in this repository was inspired heavily by the work of Junjie and Yen-Jen Oyang.
+This project improves the performance speed of Junjie's (楊竣傑) implementation of Elevated Relaxed Variable Kernel Density Estimation (E-RVKDE), Relaxed Variable Kernel Density Estimation (RVKDE), and Abramson's variable bandwidth Kernel Density Estimation (Abramson KDE) methods. The code in this repository was inspired heavily by the work of Junjie and Yen-Jen Oyang.
 
-Elevated Relaxed Variable Kernel Density Estimation (E-RVKDE) is a KDE method developed by Junjie, under the advisor Yen-Jen Oyang at NTU. He demonstrated that, in most conditions, it produces results either on par with or better than Silverman's fixed bandwidth KDE (the default KDE of scipy). E-RVKDE was based upon earlier work by Yen-Jen Oyang et al. who originally developed the RVKDE method.
+Elevated Relaxed Variable Kernel Density Estimation (E-RVKDE) is a KDE method developed by Junjie, under the advisor Yen-Jen Oyang (歐陽彥正) at NTU. He demonstrated that, in most conditions, it produces results either on par with or better than Silverman's fixed bandwidth KDE (the default KDE of scipy). E-RVKDE was based upon earlier work by Yen-Jen Oyang et al. who originally developed the RVKDE method.
 
 #### Example results for single gaussian, 1600 samples:
 ![KDE results](https://github.com/johngilbert2000/KDE_project/blob/master/kde_results/kde_plots/kde_1600_0.png)

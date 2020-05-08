@@ -16,6 +16,7 @@ Samples |	Runs |	Total Time (sec) |	Silverman | RVKDE |	ERVKDE |	Abramson
 6400 | 10 | 1000.965 | 4.656962E-06 | 2.585347E-05 | 4.082943E-06 | 7.097434E-06
 12800 | 10 | 3615.178 | 2.965795E-06 | 2.444878E-05 | 2.580114E-06 | 3.526277E-06
 
+The above table shows the mean squared errors of each KDE method for a single gaussian, averaged over ten runs for each given sample size. For each sample size, the total time indicates the total time it took to compute KDE densities for all 10 runs for all methods, and average the MSE results.
 
 ### Dependencies
 

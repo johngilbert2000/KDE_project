@@ -20,7 +20,9 @@ The above table shows the mean squared errors of each KDE method for a single ga
 
 ### Dependencies
 
-The following versions were used in development
+This project requires Python version >= 3.6 (for f-strings).
+
+If you encounter issues, the following versions were used in development
 ```
 Python 3.8.1
 numpy 1.18.1
